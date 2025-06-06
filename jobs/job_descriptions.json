@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Python Developer",
+    "description": "We are looking for a Python Developer responsible for managing the interchange of data between the server and the users. Strong understanding of Django, REST APIs, and databases is required."
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Seeking a Data Analyst with strong Python, SQL, and data visualization skills. Must be comfortable with data cleaning, transformation, and reporting."
+  },
+  {
+    "title": "Backend Engineer",
+    "description": "Looking for a backend engineer with experience in building scalable RESTful services using Django or Flask. Knowledge of PostgreSQL and Redis is a plus."
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "Hiring a machine learning engineer with experience in Python, scikit-learn, and model deployment. Understanding of NLP and deep learning is a bonus."
+  }
+]
